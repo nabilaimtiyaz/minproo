@@ -16,6 +16,14 @@ NIM : 2409116011
    
   ![Screenshot 2024-09-30 220519](https://github.com/user-attachments/assets/1ce359ff-e174-41b0-a89b-5296694de8ee)
 
+   (tampilan jika gagal masuk)
+
+   ![image](https://github.com/user-attachments/assets/0487001a-5953-4d74-a082-7c5dac5d0eb9)
+
+    
+  
+2. Setelah user berhasil masuk, user dapat memasukkan jam kerja dan tarif per jam
+   
    ![Screenshot 2024-09-30 221049](https://github.com/user-attachments/assets/c219356d-1003-4924-a2cf-0bd6cfcd1390)
    
 Apabila gagal masuk, maka user harus memasukkan NIM dan Kata Sandi kembali
