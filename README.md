@@ -12,11 +12,9 @@ NIM : 2409116011
 
   ![Screenshot 2024-09-30 215948](https://github.com/user-attachments/assets/69b512ad-bed9-4a75-bcb8-19902e001637)
 
-1. User menginputkan NIM dan Kata Sandi terlebih dahulu
+1. User menginputkan NIM dan Kata Sandi terlebih dahulu (tampilan jika berhasil masuk)
    
   ![Screenshot 2024-09-30 220519](https://github.com/user-attachments/assets/1ce359ff-e174-41b0-a89b-5296694de8ee)
-
-Apabila berhasil masuk, User langsung dapat memasukkan Jam kerja dan Tarif gaji. 
 
    ![Screenshot 2024-09-30 221049](https://github.com/user-attachments/assets/c219356d-1003-4924-a2cf-0bd6cfcd1390)
    
