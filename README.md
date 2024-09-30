@@ -1,4 +1,4 @@
-# minpro lala
+# minpro DDP
 Nabila Imtiyaz Agustin
 NIM : 2409116011
 
