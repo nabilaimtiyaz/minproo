@@ -5,7 +5,8 @@ NIM : 2409116011
 
 #Flowchart
 
-  ![WhatsApp Image 2024-09-30 at 21 25 15_232abf00](https://github.com/user-attachments/assets/cd5c9079-5c49-4c25-a211-5809160c7126)
+ ![lalaa 2 drawio](https://github.com/user-attachments/assets/37516c4a-39d6-4f3c-9c79-54e7542f53b9)
+
 
 #Output
 
