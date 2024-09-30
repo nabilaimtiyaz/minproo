@@ -1,4 +1,4 @@
-# minproo
+# minpro lala
 Nabila Imtiyaz Agustin
 NIM : 2409116011
 
